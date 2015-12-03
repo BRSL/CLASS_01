@@ -14,14 +14,14 @@ There are FOUR numeric columns
 + Sepal.Width  
 + Sepal.Length  
 
-```{r results="asis"}
+```{r eval=TRUE}
 data(iris);
 head(iris);
 tail(iris);
 ```
 
 ### Columns name of iris
-```{r}
+```{r results="asis"}
 names(iris);
 r1 = nrow(iris);
 c1 = ncol(iris);
@@ -31,7 +31,7 @@ c1 = ncol(iris);
 Rows are `r r1` and Columns are `r c1`
 
 ### Data Visualization
-```{r}
+```{r results="asis"}
 plot(iris, col=names(iris));
 ```
 
