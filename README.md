@@ -20,7 +20,7 @@
 		+ :octocat: **git config --global user.name**  "your github account user name"  
 		
 9. **Clone** your Central Repository from GitHub into your Local System  
-	+ :octocat: **git clone** https://www.github.com**/** [GitHub username]**/**[Repository name].git  
+	+ :octocat: **git clone** [https://www.github.com**/**][GitHub username]**/**[Repository name].git  
 10. Then a folder with repository name will be created in Root directory**
 
 11. move into folder from git console  
