@@ -33,7 +33,7 @@ c1 = ncol(iris);
 Rows are `r r1` and Columns are `r c1`
 
 ### Data Visualization  
-```{r "plot", eval=FALSE}
+```{r "plots"}
 barplot(1:10);
 plot(iris, col=1:3);
 ```

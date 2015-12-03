@@ -1,22 +1,34 @@
 # Welcome to BRSL
 
-cnter for **programming** concepts
+centre for **programming** concepts
 
-Logo for Image: ![](images/Git.png)
+Generating Images
+=================
 
+![My Image](images/Git.png)
+
+## Hard line as Line Separator
 line1
 
 line2
 
 line3
 
-
+## Soft line as Line Separator ( There are two spaces at the end of each of following lines)
 line1  
 line2  
 line3
 
+## Ordered List  
+1. Hardware
+2. Software
+3. Firmware
+4. Humanware
 
->  Sun rises in east
+
+> This is called Blockquote text
+>
+> Sun rises in east
 > every day
 
 

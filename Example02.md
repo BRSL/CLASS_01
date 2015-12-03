@@ -1,5 +1,7 @@
 # R Language code in Markdown file
 
+![Image](images/Git.png)
+
 ## Analysis of iris data
 
 iris is a predefined dataset in R langauge. We can use it directly.  
@@ -60,12 +62,12 @@ Rows are 150 and Columns are 5
 barplot(1:10);
 ```
 
-![plot of chunk plot](figure/plot-1.png) 
+![plot of chunk plots](figure/plots-1.png) 
 
 ```r
 plot(iris, col=1:3);
 ```
 
-![plot of chunk plot](figure/plot-2.png) 
+![plot of chunk plots](figure/plots-2.png) 
 
 
