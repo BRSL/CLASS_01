@@ -1,0 +1,38 @@
+# R Language code in Markdown file
+
+## Analysis of iris data
+
+iris is a predefined dataset in R langauge. We can use it directly.  
+It contains data of three flowers:
+1. setosa
+2. versicolor
+3. verginica
+
+There are FOUR numeric columns  
++ Petal.Length  
++ Petal.Width  
++ Sepal.Width  
++ Sepal.Length  
+
+```{r}
+data(iris);
+head(iris);
+tail(iris);
+```
+
+### Columns name of iris
+```{r}
+names(iris);
+r1 = nrow(iris);
+c1 = ncol(iris);
+```
+
+### Number of rows and Columns
+Rows are `r r1` and Columns are `r c1`
+
+### Data Visualization
+```{r}
+plot(iris, col=names(iris));
+```
+
+
