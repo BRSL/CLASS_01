@@ -3,9 +3,9 @@
 ## Analysis of iris data
 
 iris is a predefined dataset in R langauge. We can use it directly.  
-It contains data of three flowers:
-1. setosa
-2. versicolor
+It contains data of three flowers:  
+1. setosa  
+2. versicolor  
 3. verginica
 
 There are FOUR numeric columns  
