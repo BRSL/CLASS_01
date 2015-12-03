@@ -14,7 +14,7 @@ There are FOUR numeric columns
 + Sepal.Width  
 + Sepal.Length  
 
-```{r}
+```{r results="asis"}
 data(iris);
 head(iris);
 tail(iris);
