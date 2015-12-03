@@ -20,17 +20,17 @@ head(iris);
 tail(iris);
 ```
 
-### Columns name of iris
+### Columns name of iris  
 ```{r eval=TRUE, result="asis"}
 names(iris);
 r1 = nrow(iris);
 c1 = ncol(iris);
 ```
 
-### Number of rows and Columns
+### Number of rows and Columns  
 Rows are `r r1` and Columns are `r c1`
 
-### Data Visualization
+### Data Visualization  
 ```{r eval=TRUE, result="asis"}
 plot(iris, col=names(iris));
 ```
