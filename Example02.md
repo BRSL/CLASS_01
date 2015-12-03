@@ -15,6 +15,11 @@ There are FOUR numeric columns
 + Sepal.Length  
 
 
+```r
+data(iris);
+head(iris);
+```
+
 ```
 ##   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
 ## 1          5.1         3.5          1.4         0.2  setosa
@@ -23,6 +28,10 @@ There are FOUR numeric columns
 ## 4          4.6         3.1          1.5         0.2  setosa
 ## 5          5.0         3.6          1.4         0.2  setosa
 ## 6          5.4         3.9          1.7         0.4  setosa
+```
+
+```r
+tail(iris);
 ```
 
 ```
@@ -37,18 +46,9 @@ There are FOUR numeric columns
 
 ### Columns name of iris  
 
-```r
-names(iris);
-```
-
 ```
 ## [1] "Sepal.Length" "Sepal.Width"  "Petal.Length" "Petal.Width" 
 ## [5] "Species"
-```
-
-```r
-r1 = nrow(iris);
-c1 = ncol(iris);
 ```
 
 ### Number of rows and Columns  
@@ -57,11 +57,7 @@ Rows are 150 and Columns are 5
 ### Data Visualization  
 
 ```r
-plot(iris, col=names(iris));
-```
-
-```
-## Error in plot.xy(xy, type, ...): invalid color name 'Sepal.Length'
+plot(iris, col=1:3);
 ```
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3-1.png) 
