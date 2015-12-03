@@ -7,7 +7,7 @@ centre for **programming** concepts
 
 Hyper Links
 ===========
-[goto my website](www.brsl.net)
+[goto my website](http://www.brsl.net)
 
 ## Hard line separation
 line1
@@ -26,7 +26,8 @@ line3
 > every day
 
 
-## Tabular data  
+## Tabular data
+
 
 RNO | NAME | Gender
 --------------------
