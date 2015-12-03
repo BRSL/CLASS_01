@@ -21,12 +21,12 @@ line3
 
 
 RNO | NAME | Gender
---------------------
+----|------|--------
 121 | Raju | M
 122 | Sita | F
 
 
-[goto my website](www.brsl.net)
+[goto my website](http://www.brsl.net)
 
 
 
