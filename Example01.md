@@ -27,7 +27,9 @@ line3
 
 
 ## Tabular data
-
+This is Sample table  
+Do not attempt to keep tabular data directly under a heading  
+Always maintain some other stuff between Heading and Table
 
 RNO | NAME | Gender
 --------------------
@@ -35,7 +37,8 @@ RNO | NAME | Gender
 122 | Sita | F
 
 
-
+## Note to new users
+Click **Raw" button to see how this **markdown** file is prepared
 
 
 
