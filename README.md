@@ -22,15 +22,15 @@ My Experiences with Git and GitHub
 	+ use **cd ..** to come back if necessary  
 12. create or modify files/folders of this repository folder from windows desktop
 13. Add the files/folder to Staging area  
-	+ git add folder1  
-	+ git add folder2  
-	+ git add file1  
-	+ git add file2  
-	+ git add *.txt  
-	+ git add *.*md
+	+ :octocat: **git** add folder1  
+	+ :octocat: **git** add folder2  
+	+ :octocat: **git** add file1  
+	+ :octocat: **git** add file2  
+	+ :octocat: **git** add *.txt  
+	+ :octocat: **git** add *.*md
 14. Commit these Staged items to Local Repository  
-	+ git commit -m "1st version :octocat:"
+	+ **git** commit -m "1st version :octocat:"
 15. Push the Local Repository items to Central Repository  
-	+ git push -u origin master
+	+ **git** push -u origin master
 		
 		
