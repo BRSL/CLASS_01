@@ -1,6 +1,6 @@
 :octocat: My Experiences with Git and GitHub :octocat:
 ==================================
-1. create an account in **Github** [GitHub](https://github.com/)
+1. create an account in [**GitHub**](https://github.com/)
 
 2. create a Public Repository with **default README.md** file
 
@@ -29,17 +29,18 @@
 	+ use **cd ..** to come back if necessary  
 12. create or modify files/folders of this repository folder from windows desktop
 
-13. Add the files/folder to Staging area  
+13. Add the files/folder to **Staging area**  
 	+ :octocat: **git** add folder1  
 	+ :octocat: **git** add folder2  
 	+ :octocat: **git** add file1  
 	+ :octocat: **git** add file2  
 	+ :octocat: **git** add *.txt  
 	+ :octocat: **git** add *.*md
-14. Commit these Staged items to Local Repository  
+	
+14. Commit these Staged items to **Local Repository**  
 	+ :octocat: **git** commit -m "1st version"
 	
-15. Push the Local Repository items to Central Repository  
+15. Push the Local Repository items to **Central Repository**  
 	+ :octocat: **git** push -u origin master
 		
 		
