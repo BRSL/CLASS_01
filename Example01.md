@@ -1,5 +1,4 @@
 # Welcome to BRSL
-
 centre for **programming** concepts
 
 ## Images  
@@ -27,7 +26,7 @@ line3
 > every day
 
 
-## Tabular data
+## Tabular data  
 
 RNO | NAME | Gender
 --------------------
