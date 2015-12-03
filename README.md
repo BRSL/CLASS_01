@@ -1,4 +1,4 @@
-:octocat: My Experiences with Git and GitHub :octocat:
+:octocat: My Experiences with Git and GitHub :snail:
 ==================================
 1. create an account in [**GitHub**](https://github.com/)
 
