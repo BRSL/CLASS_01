@@ -1,10 +1,12 @@
 
 # Analysis of Diamonds Data
+
+```r
 library(ggplot2);
 library(knitr);
+```
 
-
-# Descriptive Analysis
+### Descriptive Analysis
 
 ```r
 rows <- nrow(diamonds);
@@ -12,12 +14,12 @@ cols <- ncol(diamonds);
 col.names <- colnames(diamonds);
 ```
 
-This Diamonds Dataset contains 53940 records and 10 columns.
+This Diamonds Dataset contains **53940** records and **10** columns.
 
-The names of columns are carat, cut, color, clarity, depth, table, price, x, y, z.
+The names of columns are **carat, cut, color, clarity, depth, table, price, x, y, z**.
 
 
-# 1st 6 Records of Dataset
+### 1st 6 Records of Dataset
 
 ```r
 head(diamonds);
@@ -33,7 +35,7 @@ head(diamonds);
 ## 6  0.24 Very Good     J    VVS2  62.8    57   336 3.94 3.96 2.48
 ```
 
-# Last 6 Records of Dataset
+### Last 6 Records of Dataset
 
 ```r
 tail(diamonds);
